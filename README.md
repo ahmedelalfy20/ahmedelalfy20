@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am currently working on enterprise software solutions, AI-powered applications, and scalable SaaS platforms.<br><br>I am interested in collaborating on software engineering, artificial intelligence, and open-source projects.<br><br>I am continuously expanding my knowledge in distributed systems, cloud computing, DevOps, and software architecture.<br><br>My primary areas of expertise include Next.js, React, Node.js, TypeScript, Flutter, Python, Machine Learning, and system design.<br><br>I believe that software engineering is not only about writing code, but about designing reliable, maintainable, and scalable systems that deliver long-term value.
 
 
